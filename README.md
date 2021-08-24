@@ -1,6 +1,6 @@
-#Livro de Recitas :cook
+# Livro de Recitas :man_cook:
 
-Olá! Bem vindo ao meu livro de recitas :wave
+Olá! Bem vindo ao meu livro de recitas :wave:
 
  - Strogonoff de Carne
 
